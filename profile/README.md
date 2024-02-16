@@ -2,7 +2,7 @@
 
 > 삼성 청년 소프트웨어 아카데미(SSAFY) 10기 2학기 공통 프로젝트 (A809)
 
-![Project Cover](./assets/cover.png)
+![Project Cover](https://github.com/oomool-app/.github/blob/main/profile/assets/cover.png)
 
 ## ✨ 프로젝트 개요
 
@@ -175,17 +175,17 @@
 
 ## 🌈 서비스 화면 소개
 
-| ![Main Page](./assets/screen/main.gif) | ![Wait Room](./assets/screen/waitroom.gif) | ![Game Start](./assets/screen/game_start.gif) |
-| :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|                홈 화면                 |                대기방 생성                 |                   게임 시작                   |
+| ![Main Page](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/main.gif) | ![Wait Room](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/waitroom.gif) | ![Game Start](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/game_start.gif) |
+| :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|                                           홈 화면                                            |                                           대기방 생성                                            |                                              게임 시작                                              |
 
-| ![Enter Waitroom](./assets/screen/waitroom_enter.gif) | ![Enter Room](./assets/screen/room.gif) | ![Write Feed](./assets/screen/write_feed.gif) |
-| :---------------------------------------------------: | :-------------------------------------: | :-------------------------------------------: |
-|                      대기방 입장                      |                 방 입장                 |                   피드 작성                   |
+| ![Enter Waitroom](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/waitroom_enter.gif) | ![Enter Room](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/room.gif) | ![Write Feed](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/write_feed.gif) |
+| :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+|                                                 대기방 입장                                                 |                                            방 입장                                            |                                              피드 작성                                              |
 
-| ![Predict Success](./assets/screen/predict_success.gif) | ![Enter Room](./assets/screen/predict_failed.gif) | ![Write Feed](./assets/screen/result.gif) |
-| :-----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------: |
-|                        예측 성공                        |                     예측 실패                     |         결과 확인 및 이미지 저장          |
+| ![Predict Success](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/predict_success.gif) | ![Enter Room](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/predict_failed.gif) | ![Write Feed](https://github.com/oomool-app/.github/blob/main/profile/assets/screen/result.gif) |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
+|                                                   예측 성공                                                   |                                                예측 실패                                                |                                    결과 확인 및 이미지 저장                                     |
 
 ---
 
@@ -255,8 +255,8 @@
 
 ### 시스템 아키텍처
 
-![System Architecture](./assets/system_architecture.png)
+![System Architecture](https://github.com/oomool-app/.github/blob/main/profile/assets/system_architecture.png)
 
 ### E-R Diagram
 
-![ERD](./assets/erd.png)
+![ERD](https://github.com/oomool-app/.github/blob/main/profile/assets/erd.png)
